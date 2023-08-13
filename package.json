@@ -14,8 +14,11 @@
   "license": "ISC",
   "dependencies": {
     "@astrojs/node": "^5.3.2",
+    "@astrojs/preact": "^2.2.2",
+    "@astrojs/rss": "^2.4.4",
     "@astrojs/solid-js": "^2.2.0",
     "@astrojs/ts-plugin": "^1.1.1",
-    "astro": "^2.10.4"
+    "astro": "^2.10.4",
+    "preact": "^10.16.0"
   }
 }
